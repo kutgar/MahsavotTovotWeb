@@ -1,0 +1,20 @@
+{
+    "slides": [
+      {
+        "src": "/amuta1.jpg",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "/amuta2.jpg",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "/amuta3.jpg",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "/amuta4.jpg",
+        "alt": "Image 4 for carousel"
+      }
+    ]
+  }
